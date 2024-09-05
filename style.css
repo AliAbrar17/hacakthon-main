@@ -1,0 +1,54 @@
+ body {
+margin: 15%;
+margin-top: 0%;
+padding: 0%;
+ }
+ 
+ 
+ nav {
+    display: flex;
+    justify-content: space-between;
+
+ }
+
+ul  {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+
+.illustration {
+    display: flex;
+    justify-content: space-around;
+}
+
+#services {
+    display: flex;
+  gap: 5px;
+
+}
+.green {
+    background-color: #B9FF66;
+    border-radius: 5px;
+    width: fit-content;
+}
+
+.SEO-BOXES {
+    display: flex;
+    border: 1px solid black;
+}
+
+
+
+@media and screen (max-width (866px)) {
+    
+}
